@@ -11,8 +11,6 @@ import pathlib
 import json
 import hashlib
 
-from jinja2 import Undefined
-
 
 def removeProduct(id):
     tienda = {}
